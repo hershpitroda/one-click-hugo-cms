@@ -1,0 +1,26 @@
+[20-May-2013 06:05:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[20-May-2013 06:13:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[20-May-2013 06:57:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[28-May-2013 20:18:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[26-Jun-2013 00:17:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[08-Jul-2013 16:14:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[08-Jul-2013 16:15:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[08-Jul-2013 16:20:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'burosys_user'@'cp-26.webhostbox.net' (using password: YES) in /home/burosxeo/public_html/admin/includes/constants.php on line 17
+[08-Jul-2013 16:22:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 78
+[08-Jul-2013 16:22:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 89
+[08-Jul-2013 16:22:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 106
+[08-Jul-2013 16:27:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 78
+[08-Jul-2013 16:27:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 89
+[08-Jul-2013 16:27:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 106
+[08-Jul-2013 16:28:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 78
+[08-Jul-2013 16:28:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 89
+[08-Jul-2013 16:28:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 106
+[09-Jul-2013 08:32:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 78
+[09-Jul-2013 08:32:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 89
+[09-Jul-2013 08:32:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 106
+[09-Jul-2013 08:33:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 78
+[09-Jul-2013 08:33:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 89
+[09-Jul-2013 08:33:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 106
+[19-Jul-2013 08:33:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 78
+[19-Jul-2013 08:33:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 89
+[19-Jul-2013 08:33:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 106

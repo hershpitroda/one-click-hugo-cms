@@ -1,0 +1,4 @@
+<%
+int NoofRecordsperpage=16;
+%>
+

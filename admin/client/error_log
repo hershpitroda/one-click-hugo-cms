@@ -1,0 +1,6 @@
+[08-Jul-2013 16:29:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 78
+[08-Jul-2013 16:29:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 89
+[08-Jul-2013 16:29:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/includes/header.php on line 106
+[08-Jul-2013 16:29:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/client/index.php on line 65
+[08-Jul-2013 16:29:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/client/index.php on line 80
+[08-Jul-2013 16:29:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/burosxeo/public_html/admin/client/index.php on line 119
