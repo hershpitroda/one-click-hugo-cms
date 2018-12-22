@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: http://www.burosys.com/sitemap.xml
+Disallow: /development/
+Disallow: /scripts/
+Disallow: /styles/

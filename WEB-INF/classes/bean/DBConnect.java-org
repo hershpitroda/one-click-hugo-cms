@@ -1,0 +1,27 @@
+package bean;
+import java.sql.Connection;
+import java.sql.DriverManager;
+public class DBConnect
+{
+    Connection myCon;
+    public DBConnect()
+    {
+        myCon = null;
+    }
+    public Connection getConn()
+        throws Exception
+    {
+        Class.forName("net.sourceforge.jtds.jdbc.Driver");
+      myCon = DriverManager.getConnection("jdbc:jtds:sqlserver://70.84.20.226:4433/burosys", "burosys","BuSyj7");
+	//myCon = DriverManager.getConnection("jdbc:jtds:sqlserver://66.7.149.252/burosysepuratech", "burosysepuratech","databep8759");
+        return myCon;
+    }
+    public void shutdown()
+        throws Exception
+    {
+        if(myCon != null)
+        {
+            myCon.close();
+        }
+    }
+}
